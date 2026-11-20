@@ -12,8 +12,8 @@ Run:
 
 ### Questions
 
-1.  What does the tool say about the password?
-2.  Why is this password weak?
+1.  What does the tool say about the password? - password123: it is based on a dictionary word
+2.  Why is this password weak? - generic and simple combination of words and number that could be vulnerable for the system
 
 ### Reflection
 
@@ -33,8 +33,8 @@ Run:
 
 ### Questions
 
-1.  What result did the tool return?
-2.  What characteristics make this password stronger?
+1.  What result did the tool return? - Tr4!nBicyclePlanet: OK
+2.  What characteristics make this password stronger? - harder combination make it more difficult to enter the system 
 
 ### Reflection
 
@@ -53,10 +53,11 @@ Evaluate the following passwords:
 
 ### Questions
 
-1.  Which passwords are weak?
-2.  Which password is strongest?
-3.  Why?
+1.  Which passwords are weak? - all of them
+2.  Which password is strongest? - third and fourth
+3.  Why? - contain numbers letters and symbols
 
 ### Reflection
 
 Explain what you learned about password strength.
+

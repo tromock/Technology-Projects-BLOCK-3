@@ -30,10 +30,10 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 
 ### Questions
 
-1.  Who appears to be the sender?
-2.  Does the email create urgency or pressure?
-3.  Are there spelling or grammar mistakes?
-4.  Does the link match the organisation domain?
+1.  Who appears to be the sender? - security team
+2.  Does the email create urgency or pressure? - yes, both
+3.  Are there spelling or grammar mistakes? - yes
+4.  Does the link match the organisation domain? - no
 
 ### Reflection
 
@@ -44,15 +44,15 @@ Explain why attackers use phishing emails.
 ## Task 2 --- Link Inspection
 
 Hover over the link in the email (or copy link) and inspect the URL.
-
+Unable to access the link
 ### Screenshot
 
 (Add screenshot)
 
 ### Questions
 
-1.  Does the displayed link match the actual URL?
-2.  Are there unusual domain names?
+1.  Does the displayed link match the actual URL? - no
+2.  Are there unusual domain names? - yes , because of the generic combination of he words that lie to you 
 
 ### Reflection
 

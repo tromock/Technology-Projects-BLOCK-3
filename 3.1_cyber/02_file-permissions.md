@@ -13,8 +13,8 @@ Run:
 
 ### Questions
 
-1.  Who owns the file?
-2.  What are the default permissions?
+1.  Who owns the file? - bytebuilders
+2.  What are the default permissions? - -rw-rw-r--
 
 ### Reflection
 
@@ -35,8 +35,8 @@ Run:
 
 ### Questions
 
-1.  Who can read the file now?
-2.  Who cannot access it?
+1.  Who can read the file now? - admin
+2.  Who cannot access it? - admin
 
 
 ------------------------------------------------------------------------
@@ -54,6 +54,6 @@ Run:
 
 ### Questions
 
-1.  Who can access the file now?
-2.  Why might this configuration be dangerous?
+1.  Who can access the file now? - everyone 
+2.  Why might this configuration be dangerous? - because everyone have the access to teh system
 
