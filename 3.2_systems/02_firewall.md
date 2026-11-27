@@ -24,8 +24,8 @@ Run:
 
 ### Questions
 
-1.  What message appears after enabling the firewall?
-2.  Why are firewalls important?
+1.  What message appears after enabling the firewall? - Firewall is active and enabled on system startup
+2.  Why are firewalls important? - a firewall blocks unauthorised access
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Run:
 Run:
 
     sudo ufw allow ssh
-    sudo ufw status
+    sudo ufw status -
 
 ### Screenshot
 
@@ -42,8 +42,8 @@ Run:
 
 ### Questions
 
-1.  What rule was added?
-2.  Why must SSH be allowed?
+1.  What rule was added? - allowed SSH connection
+2.  Why must SSH be allowed? - to access and manage the system remotely
 
 ### Reflection
 

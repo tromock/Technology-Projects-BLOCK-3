@@ -28,8 +28,8 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
     ```
 
 **Questions**
-- Who can read this file?
-- How does file permission protect confidentiality?
+- Who can read this file? - admin
+- How does file permission protect confidentiality? - unables the access to the data
 
 ## Part 2 – Integrity
 
@@ -39,19 +39,19 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
     ```
     _What does "hash" do?
 
-1. Save the output.
+1. Save the output. - 0d77482a3b516f1cc50ada879b19df6578e114d5ba6e7c293b9802e5a03a9f30  secrets.txt
 
-1. Modify the file.
+1. Modify the file. - 
     ```bash
     nano secrets.txt
     ```
 
 1. Run the hash again.
-
+2c8e9cef379420c027282f8d9381c1126bd2dbde1cdd7e4da1244377ba55936a  secrets.txt
 
 ** Questions**
-- Did the hash change?
-- Why do security systems use hashing?
+- Did the hash change? - Yes
+- Why do security systems use hashing? - to secure the data
 
 
 # Part 3 – Availability
@@ -67,8 +67,8 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
     ```
 
 **Questions**
-- Why is system uptime important?
-- What happens if a system is unavailable?
+- Why is system uptime important? - to be up the date
+- What happens if a system is unavailable? - User cannot access services or data.
 
 ## Deliverables
 Include:
@@ -77,3 +77,4 @@ Include:
 - Answers to questions
 - Reflection
     >Explain how this activity demonstrated the CIA triad.
+uptime

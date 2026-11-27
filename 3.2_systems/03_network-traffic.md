@@ -26,9 +26,9 @@ Let the capture run for about 20 seconds.
 
 ### Questions
 
-1.  What types of traffic do you observe?
-2.  Can you identify IP addresses?
-3.  Do you see DNS queries?
+1.  What types of traffic do you observe? - IP STP ARP
+2.  Can you identify IP addresses? - Yes
+3.  Do you see DNS queries? - Yes , dns requests using port 53
 
 ### Reflection
 
@@ -40,8 +40,8 @@ Explain what network monitoring can reveal about system activity.
 
 ### Questions
 
-1.  Could sensitive information appear in network traffic?
-2.  Why is HTTPS important for protecting communications?
+1.  Could sensitive information appear in network traffic? - yes
+2.  Why is HTTPS important for protecting communications? - to secure the users data flow
 
 ### Reflection
 
